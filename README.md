@@ -42,3 +42,4 @@ Link: https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
 
 - [ ] Share the notes for each book
 - [ ] Add more books
+- [ ] Structure the project into one folder per book, including notes and explanation.
