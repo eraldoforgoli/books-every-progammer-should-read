@@ -1,4 +1,4 @@
-# books-every-progammer-should-read
+# Books every progammer should read
 
 List of books that i have read and i suggest that every programmer should read.
 
