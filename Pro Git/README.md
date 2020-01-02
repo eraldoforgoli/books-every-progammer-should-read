@@ -19,7 +19,7 @@ Git does not explicitly track file movements. If you rename a file in git, not m
 - See what you’ve changed but not yet staged
   > `git diff`:
 - See what you have staged and will go to your next commit
-  > `git diff —staged`:
+  > `git diff --staged`:
 - Commit without staging first:
   > git commit -a -m “Your message here”
 
@@ -143,8 +143,7 @@ _Git has the ability to tag specific point in a repository’s history as being 
 _Note: git push pushes both types of tags._
 
 - Deleting tags:
-  > `git tag -d v1.34`
-  > _This does not remove the tags from any remote servers. There are two common variations for removing a ta from a remote server._
+  > `git tag -d v1.34` > _This does not remove the tags from any remote servers. There are two common variations for removing a ta from a remote server._
 
 1. > `git push <remote> :refs/tags/<tagname>`
 
