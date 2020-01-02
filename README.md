@@ -2,6 +2,8 @@
 
 List of books that i have read and i suggest that every programmer should read.
 
+**For each folder, there is a NOTES.md. This folder contains my personal notes while reading these books + notes i have taken by reading blogs.**
+
 ### TODO
 
 - [x] Share the notes for each book
